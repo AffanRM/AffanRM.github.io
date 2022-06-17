@@ -110,6 +110,13 @@ paymentButtons.forEach(button => {
     });
 })
 
+// Open fiverr.com when a user selects a package
+paymentButtons.forEach(button => {
+    button.addEventListener('click', function(){
+        window.open('https://www.fiverr.com/share/11bql4')
+    })
+})
+
 let hamburgerLogo = document.querySelector('.hamburger-logo');
 let closeLogo = document.querySelector('.close-logo');
 // let desktopNav = document.querySelector('.desktop-nav');
