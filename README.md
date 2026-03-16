@@ -2,7 +2,7 @@
 
 A personal portfolio website built with vanilla HTML, CSS, and JavaScript. Features a clean, modern design with dark/light mode, smooth scroll animations, and sections for experience, projects, and skills.
 
-**Live Site:** [affanrm.github.io/your-repo-name](https://affanrm.github.io)
+**Live Site:** [affanrm.github.io](https://affanrm.github.io)
 
 ---
 
